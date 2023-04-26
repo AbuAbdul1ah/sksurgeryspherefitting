@@ -1,0 +1,6 @@
+[run]
+omit = 
+        ./                                a least squares sphere fitting algorithm,/_version.py
+        ./                                a least squares sphere fitting algorithm,/__init__.py
+        ./                                a least squares sphere fitting algorithm,/__main__.py
+        ./                                a least squares sphere fitting algorithm,/ui/                                a least squares sphere fitting algorithm,_command_line.py

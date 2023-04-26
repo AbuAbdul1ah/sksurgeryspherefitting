@@ -1,0 +1,2 @@
+include versioneer.py
+include                                 a least squares sphere fitting algorithm,/_version.py
